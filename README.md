@@ -2,6 +2,7 @@
 * 利用github action实现定时自动运行api调用，保持E5开发活跃。
 * 免费，不需要额外设备/服务器，部署完不用管啦。
 * 加密版，隐藏应用id+机密，保护账号安全
+* 注意workflow中的提交者请改为自己，现有账号的api调用可能无效，workflow中的提交者可以添加github提交贡献从而实现续订（E5绑定Github账户后有效）
 
 ### 特别说明/Thanks ###
 * 原教程博主-黑幕（酷安id-Paran）：https://blog.432100.xyz/index.php/archives/50/
